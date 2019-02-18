@@ -1,0 +1,72 @@
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\AudioSpectrumAdvance.exe.config
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\AudioSpectrumAdvance.exe
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\AudioSpectrumAdvance.pdb
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\Bass.Net.dll
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.csprojResolveAssemblyReference.cache
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.Properties.Resources.resources
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.csproj.GenerateResource.Cache
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.exe
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.pdb
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Spectrum.baml
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Spectrum.g.cs
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance_MarkupCompile.cache
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.g.resources
+c:\users\houri\documents\visual studio 2015\Projects\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.Form1.resources
+C:\Users\User\Desktop\music2\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Spectrum.baml
+C:\Users\User\Desktop\music2\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Spectrum.g.cs
+C:\Users\User\Desktop\music2\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\music2\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\Audioly.exe.config
+C:\Users\User\Desktop\music2\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\Audioly.exe
+C:\Users\User\Desktop\music2\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\Audioly.pdb
+C:\Users\User\Desktop\music2\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Audioly_Content.g.cs
+C:\Users\User\Desktop\music2\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Audioly_MarkupCompile.cache
+C:\Users\User\Desktop\music2\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Audioly.g.resources
+C:\Users\User\Desktop\music2\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Audioly.Properties.Resources.resources
+C:\Users\User\Desktop\music2\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Audioly.exe
+C:\Users\User\Desktop\music2\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Audioly.pdb
+C:\Users\User\Desktop\music2\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.Audioly.resources
+E:\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\Audioly.exe.config
+E:\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Spectrum.baml
+E:\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Spectrum.g.cs
+E:\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Audioly_Content.g.cs
+E:\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Audioly_MarkupCompile.cache
+E:\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Audioly.g.resources
+E:\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.Audioly.resources
+E:\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Audioly.Properties.Resources.resources
+E:\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.csproj.GenerateResource.Cache
+E:\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\Audioly.exe
+E:\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\Audioly.pdb
+E:\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Audioly.exe
+E:\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Audioly.pdb
+C:\Users\mariu\Downloads\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.csprojAssemblyReference.cache
+C:\Users\mariu\Downloads\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Spectrum.baml
+C:\Users\mariu\Downloads\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Spectrum.g.cs
+C:\Users\mariu\Downloads\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Audioly_Content.g.cs
+C:\Users\mariu\Downloads\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Audioly_MarkupCompile.cache
+C:\Users\mariu\Downloads\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Audioly.g.resources
+C:\Users\mariu\Downloads\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Audioly.exe
+C:\Users\mariu\Downloads\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Audioly.pdb
+C:\Users\mariu\Downloads\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\Audioly.exe.config
+C:\Users\mariu\Downloads\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\Audioly.exe
+C:\Users\mariu\Downloads\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\Audioly.pdb
+C:\Users\mariu\Downloads\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.Audioly.resources
+C:\Users\mariu\Downloads\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Audioly.Properties.Resources.resources
+C:\Users\mariu\Downloads\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.csproj.GenerateResource.cache
+C:\Users\mariu\Downloads\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Downloads\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.csproj.CopyComplete
+D:\Projects\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\Audioly.exe.config
+D:\Projects\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\Audioly.exe
+D:\Projects\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\bin\Debug\Audioly.pdb
+D:\Projects\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.csprojAssemblyReference.cache
+D:\Projects\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Spectrum.baml
+D:\Projects\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Spectrum.g.cs
+D:\Projects\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Audioly_Content.g.cs
+D:\Projects\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Audioly_MarkupCompile.cache
+D:\Projects\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Audioly.g.resources
+D:\Projects\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.Audioly.resources
+D:\Projects\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Audioly.Properties.Resources.resources
+D:\Projects\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.csproj.GenerateResource.cache
+D:\Projects\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.csproj.CoreCompileInputs.cache
+D:\Projects\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\AudioSpectrumAdvance.csproj.CopyComplete
+D:\Projects\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Audioly.exe
+D:\Projects\Audioly\AudioSpectrumAdvance\AudioSpectrumAdvance\obj\Debug\Audioly.pdb
